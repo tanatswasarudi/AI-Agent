@@ -1,0 +1,40 @@
+# Metal Detector User Manual
+
+## Product Overview
+The Breezly Metal Detector is designed for hobbyists and professionals to locate metals underground. It features adjustable sensitivity, audio alerts, and a digital display for detected objects.
+
+## Getting Started
+1. Open the camera to start surveying
+2. You should see two parallel metals at the start 
+
+## How to Use
+- Hold the detector parallel to the ground.
+- Sweep the search coil slowly back and forth.
+- When the two-parallel metals that are inside combined to make one single, it indicates that there’s a metal in the ground
+
+## Detection Indicators
+- Two metal strips indicate no metal
+- When you look inside the camera and the two parallel metals join to make a single line metal it shows that there’s something in the ground
+
+## Maintenance
+- Keep the device dry and clean.
+- Wipe the search coil with a damp cloth.
+
+## Safety Instructions
+- Do not expose the device to rain or submerge in water.
+- Don’t shake the device to avoid breaking it
+
+
+## Troubleshooting
+- Device does not power on: Check batteries.
+- False signals: Don’t move rapidly or you willget false signals
+- No sound: Check speaker and audio settings.
+
+## Manufacturer
+- Created by Brandon K and Magrill.
+- Sponsored by LiGi Bar
+
+## Additional Information
+- Recommended search areas: parks, beaches, fields.
+- Prices of common metals in Zimbabwe are provided by Fidelity as it is the official buyer of Gold in Zim
+- For support, contact support Magrill @+263780919780
